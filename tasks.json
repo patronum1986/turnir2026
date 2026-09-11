@@ -3,7 +3,7 @@
  "tasks": {
   "2026-10-24": {
    "title": "Задание дня",
-   "audio": "assets/audio/d1.mp3",
+   "audio": "assets/audio/d1-day1.mp3",
    "hint": "",
    "open": true,
    "file": "day1.mp3",
